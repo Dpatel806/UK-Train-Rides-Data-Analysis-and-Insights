@@ -47,6 +47,7 @@ This project analyzes train ride data to uncover key trends, challenges, and opp
 ---
 
 ## Author
-[Dhaval Patel] [dhavalpatel6996@gmail.com]
-LinkedIn [https://www.linkedin.com/in/dhaval-patel-882259287/]
+  Dhaval Patel
+  [dhavalpatel6996@gmail.com]
+  LinkedIn [https://www.linkedin.com/in/dhaval-patel-882259287/]
 ---
